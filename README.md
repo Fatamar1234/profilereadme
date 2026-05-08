@@ -9,8 +9,7 @@ Copy the markdown below and update the placeholders with your personal informati
 
 # Hi there, I'm [Your Name]! 👋
 
-![Banner Image](your_banner_image_url_here)
-
+(https://www.pinterest.com/pin/37084396931507529/)
 ## About Me 🚀
 
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
